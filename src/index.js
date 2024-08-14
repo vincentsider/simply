@@ -194,7 +194,7 @@ const assistantOptions = {
     emotionRecognitionEnabled: true,
   },
   recordingEnabled: true,
-  firstMessage: "Hello, this is YoYu. How may I assist you today?",
+  firstMessage: "Hello, this is YoYu! How may I assist you today?",
   voicemailMessage:
     "You've reached our voicemail. Please leave a message after the beep, and we'll get back to you as soon as possible.",
   endCallFunctionEnabled: false,
